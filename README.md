@@ -102,7 +102,8 @@ land-iq/
 │       ├── competitive-analysis.md # Landchecker, Archistar, CoreLogic, PropCode
 │       ├── due-diligence/          # 8-category developer checklist (split files)
 │       └── ...
-└── CLAUDE.md                       # AI assistant context
+├── AGENTS.md                       # AI agent instructions
+└── CLAUDE.md                       # One line: @AGENTS.md
 ```
 
 ## Pitch Deck (18 slides)
