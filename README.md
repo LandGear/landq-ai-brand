@@ -78,7 +78,7 @@ node scripts/generate-pdf.mjs
 ## Project Structure
 
 ```
-land-iq/
+landq-ai-brand/
 ├── src/app/
 │   ├── page.tsx                    # Home page
 │   ├── globals.css                 # Design system (colors, fonts)
