@@ -7,3 +7,17 @@ next-env.d.ts
 
 # Claude Code 本地工作区
 .claude/worktrees/
+
+# Local credentials must never enter shared history; keep only empty templates.
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+id_rsa
+id_ed25519
